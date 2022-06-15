@@ -38,6 +38,20 @@ Able | Design, Product Engineering, Mobile, Web | | $$$
 
 TBD
 
+## Hiring
+
+Buidling a stellar team is challenging, especially in the early days and even more so when you don't have a co-founder with the background of building technology products and teams. Here are some of the ways you can get help in building your team:
+
+* **On-demand interviewers**: use on-demand interviewers to hire for roles for which you don't not have the expertise to interview.
+
+### On-demand interviewers
+
+Name | Roles | Vouched References | Cost
+:---- | :------| :----- | :-----:
+[Bar Raiser][1] | Mobile, Web, Backend, DevOps | - | $$
+
+[1]: https://barraiser.com/
+
 ## Contributing
 
 While I have initiated this project, I am looking for experts to contribute to
